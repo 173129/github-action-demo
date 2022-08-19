@@ -108,4 +108,4 @@ jobs:
               gh issue edit $issue_url --remove-project "${{ env.FIRST_RESPONDER_PROJECT }}"
             fi
           done
-    
+  
